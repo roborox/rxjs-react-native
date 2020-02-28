@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/roborox/rxjs-react-native/compare/v1.0.0...v1.0.1) (2020-02-28)
+
+
+### Bug Fixes
+
+* added first, last to RxFlatList.renderItem ([6c5aae5](https://github.com/roborox/rxjs-react-native/commit/6c5aae515300a4cc8ecbde4ae3066ca5527fec05))
+
 # 1.0.0 (2020-02-27)
 
 
