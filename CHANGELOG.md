@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/roborox/rxjs-react-native/compare/v1.0.1...v1.0.2) (2020-02-29)
+
+
+### Bug Fixes
+
+* RxFlatList supports refreshing ([071d274](https://github.com/roborox/rxjs-react-native/commit/071d2748b5784e599b34ca09c1d4497a1315ed75))
+
 ## [1.0.1](https://github.com/roborox/rxjs-react-native/compare/v1.0.0...v1.0.1) (2020-02-28)
 
 
