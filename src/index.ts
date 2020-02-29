@@ -1,4 +1,4 @@
 import { RxText } from "./text"
-import { RxFlatList } from "./flat-list"
+import { RxFlatList, RxListRenderItem, RxListRenderItemInfo } from "./flat-list"
 
-export { RxFlatList, RxText }
+export { RxFlatList, RxListRenderItem, RxListRenderItemInfo, RxText }
