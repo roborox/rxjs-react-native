@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/roborox/rxjs-react-native/compare/v1.0.3...v1.0.4) (2020-03-14)
+
+
+### Bug Fixes
+
+* fix build ([85ab737](https://github.com/roborox/rxjs-react-native/commit/85ab7375b7feaafbd8b04a69efa34fa7af40b130))
+* jest for react native setup ([a821b33](https://github.com/roborox/rxjs-react-native/commit/a821b33b9f627fde83587dca51467acb5390ab98))
+* upgrade rxjs-react ([73307c6](https://github.com/roborox/rxjs-react-native/commit/73307c6e0431bbaf3dc071cdbf2b4558f1a9874e))
+
 ## [1.0.3](https://github.com/roborox/rxjs-react-native/compare/v1.0.2...v1.0.3) (2020-02-29)
 
 
