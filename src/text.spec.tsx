@@ -1,7 +1,6 @@
-import "@testing-library/jest-native/extend-expect"
 import { act, render } from "@testing-library/react-native"
+import { Atom } from "@grammarly/focal"
 import { RxText } from "./text"
-import { Atom } from "@grammarly/focal/dist/_cjs/src/atom"
 import React from "react"
 
 describe("RxText", () => {

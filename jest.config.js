@@ -1,7 +1,10 @@
 module.exports = {
 	preset: "react-native",
-	setupFilesAfterEnv: ["@testing-library/jest-native/extend-expect"],
-	"roots": [
+	setupFilesAfterEnv: [
+		"@testing-library/jest-native/extend-expect",
+		"./jest-setup.js",
+	],
+	roots: [
 		"<rootDir>/src",
 	],
 	transform: {
