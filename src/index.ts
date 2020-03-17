@@ -1,2 +1,2 @@
-export { RxText, RxTextProps } from "./text"
-export { RxFlatList, RxListRenderItem, RxListRenderItemInfo } from "./flat-list"
+export * from "./text"
+export * from "./flat-list"
