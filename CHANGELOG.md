@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/roborox/rxjs-react-native/compare/v1.0.4...v1.1.0) (2020-03-17)
+
+
+### Bug Fixes
+
+* expose flatlist props, add tests ([b2996f4](https://github.com/roborox/rxjs-react-native/commit/b2996f4932ea5e62ce6e482a52f8d37bd7749c5a))
+* fix index file ([30a188f](https://github.com/roborox/rxjs-react-native/commit/30a188f73e81a4568a9a62bb58c938492fb74b8d))
+
+
+### Features
+
+* remove list from package ([85ef659](https://github.com/roborox/rxjs-react-native/commit/85ef6595934542ca189773a7e64477bf74266f1e))
+
 ## [1.0.4](https://github.com/roborox/rxjs-react-native/compare/v1.0.3...v1.0.4) (2020-03-14)
 
 
